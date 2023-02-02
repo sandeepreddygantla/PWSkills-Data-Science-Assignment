@@ -1,0 +1,41 @@
+Q1. Who developed Python programming Language?
+ANS. Python programming language was developed by Guido van Rossum in the late 1980s and early 1990s.
+
+Q2. which type of programming does python support?
+ANS. Python supports multiple programming paradigms, including:
+      1. Object-Oriented Programming (OOP)
+      2. Structured Programming
+      3. Functional Programming
+      4. Aspect-Oriented Programming
+      5. Procedural Programming.
+      
+      Python is often described as a multi-paradigm programming language, meaning that it can be used for multiple programming styles, 
+      and it's up to the programmer to choose the best approach for the task at hand.
+
+Q3. Is python case senstive when dealing with python identifiers?       
+ANS. Yes, Python is case-sensitive when dealing with Python identifiers, such as variable names, function names, and class names. 
+     This means that a variable named "Hello" is different from a variable named "hello" or "HELLO". 
+
+Q4. What is the correct extension of the python file?
+ANS. The correct extension for a Python file is ".py". This is the standard file extension for Python scripts 
+     and indicates to the operating system that the file should be executed as a Python script.
+     
+Q5. Is python code compiled or interpreted?
+ANS. Python is an interpreted language. This means that the source code of a Python program is executed line by line, 
+    rather than being compiled into machine code and executed directly by the computer's processor. 
+    The Python interpreter reads the code, evaluates it, and produces the results, allowing the programmer to quickly see the results of their code without having to compile it first.
+    
+Q6. Name a few blocks of code used to define in python language
+ANS. In Python, a few blocks of code used to define structures are:
+
+    1. Functions: defined using the "def" keyword, functions are used to encapsulate code and can be called multiple times.
+
+    2. Classes: defined using the "class" keyword, classes are used to define objects and encapsulate data and behavior.
+
+    3. Loops: defined using "for" and "while" keywords, loops are used to repeat blocks of code multiple times.
+
+    4. Conditionals: defined using "if" and "elif" keywords, conditionals are used to execute different blocks of code based on certain conditions.
+
+    5. Context Managers: defined using the "with" keyword, context managers are used to manage resources such as files or network connections.
+    
+Q7. 
