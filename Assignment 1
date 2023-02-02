@@ -38,4 +38,62 @@ ANS. In Python, a few blocks of code used to define structures are:
 
     5. Context Managers: defined using the "with" keyword, context managers are used to manage resources such as files or network connections.
     
-Q7. 
+Q7. State a character used to give single- line comments in Python?
+ANS. In Python, the "#" symbol is used to give single-line comments. Anything written after the "#" symbol on a line is ignored by the interpreter and serves as a comment for the reader of the code
+
+Q8. Mention functions which can help us to find the version of python that we are currently working on?
+
+In Python, there are two built-in functions that can be used to find the version of Python you are currently working with:
+
+   1. sys.version: This returns a string that contains information about the version of Python, including the version number and build information.
+
+   2. sys.version_info: This returns a named tuple that contains information about the version of Python, including the major, minor, and micro version numbers.
+      
+
+Q9. Python supports the creation of anonymous functions at runtime, using a construct called LAMBDA.
+
+Q10. What does pip stand for python?
+ANS. pip stands for "preferred installer program".
+
+Q11. Mention a few buiit-in functions in python?
+ANS. There are many built-in functions in Python, here are a few of them 
+      1. print(): used to print output to the console.
+
+      2. len(): used to get the length of a list, string, or other sequence.
+
+      3. type(): used to determine the type of an object.
+
+      4. sum(): used to calculate the sum of a list of numbers.
+
+      5. int(): used to convert a string or float to an integer.
+
+      6. str(): used to convert an integer or float to a string.
+      
+      
+Q12. What is the maximum possible length of an identifier in Python?
+ANS. There is no strict limit to the length of an identifier in Python, as the length is limited only by the amount of memory available.
+
+Q13. What are the benefits of using Python?
+ANS.  1. Easy to Learn and Read: Python has a simple and clean syntax, which makes it easy to learn and understand.
+      2. Large Community: Python has a large and active community of developers, making it easy to find help and support.
+      3. Dynamically Typed: Python is a dynamically-typed language, which makes it easier to write and debug code.
+      4. Cross-Platform Compatibility: Python can run on multiple platforms, including Windows, macOS, and Linux, which makes it a great choice for cross-platform development.
+      
+Q14. How is memory managed in Python?
+ANS. Memory management in Python is managed by the Python Memory Manager, which is a component of the Python runtime system. 
+     The Python Memory Manager is responsible for allocating and deallocating memory dynamically, as well as managing the memory used by Python objects.
+     
+Q15. How to install Python on Windows and set path variables?
+ANS.  The steps to install Python on Windows and set the path variables:
+
+      1. Download the Python installer: Go to the official Python website (https://www.python.org/) and download the latest version of Python for Windows.
+
+      2. Run the Installer: Double-click on the downloaded Python installer and follow the steps to install Python on your system. Make sure to check the option to add Python to the PATH environment variable during the installation process.
+
+      3. Verify the Installation: Open a Command Prompt and type "python" to verify that Python has been successfully installed and the path variables have been set. If Python is installed correctly, you will see the Python prompt where you can enter commands.
+
+      4. Set the Path Manually: If the path variables were not set during the installation process, you can set them manually. Go to the Control Panel and select "System" or "System and Security" and then "System". 
+      Click on "Advanced system settings" and select the "Environment Variables" button. Under "System Variables", scroll down and find the "Path" variable, then click "Edit". Add the path to the Python executable to the end of the "Path" variable, separated by a semicolon (;).
+      
+Q16. Is indentation required in python?
+ANS. Yes, indentation is required in Python and plays a significant role in the language. Python uses indentation to define code blocks, such as loops and functions.
